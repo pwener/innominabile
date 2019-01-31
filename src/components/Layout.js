@@ -63,6 +63,12 @@ class Layout extends React.Component {
       </h3>
     );
 
+    const indexFooter = (
+      <footer>
+        Porque algumas coisas não são nomeáveis... Se quer expressáveis, então desculpa.
+      </footer>
+    );
+
     return (
       <div>
         <div
@@ -87,10 +93,8 @@ class Layout extends React.Component {
           {location.pathname !== rootPath ? header : null}
 
           {children}
-          <footer>
-            Porque algumas coisas não são nomeáveis, nem sempre Aristóteles faz sentido
-            <h5>Por Phelipe Wener</h5>
-          </footer>
+
+          {location.pathname === rootPath ? indexFooter : null}
         </div>
       </div>
     )

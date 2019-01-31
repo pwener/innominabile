@@ -1,43 +1,28 @@
 import React from 'react'
 import { StaticQuery, graphql } from 'gatsby'
-import Image from 'gatsby-image'
 
 import { rhythm } from '../utils/typography'
+
+const phrases = [
+  (<p>Escrito por <strong>alguém</strong> que não se leva a sério.</p>),
+  (<p>Escrito por <strong>Mr. Nobody</strong>.</p>),
+  (<p>Escrito por... Ah <strong>tanto faz...</strong></p>),
+  (<p>Escrito por um heterônimo sem nome...</p>),
+  (<p>Escrito por <strong>alguém</strong> que com certeza tem dificuldades em se definir.</p>),
+];
 
 function Bio() {
   return (
     <StaticQuery
       query={bioQuery}
       render={data => {
-        const { author, social } = data.site.siteMetadata
         return (
           <div
             style={{
               display: `flex`,
-              marginBottom: rhythm(2.5),
             }}
           >
-            <Image
-              fixed={data.avatar.childImageSharp.fixed}
-              alt={author}
-              style={{
-                marginRight: rhythm(1 / 2),
-                marginBottom: 0,
-                minWidth: 50,
-                borderRadius: `100%`,
-              }}
-              imgStyle={{
-                borderRadius: `50%`,
-              }}
-            />
-            <p>
-              Written by <strong>{author}</strong> who lives and works in San
-              Francisco building useful things.
-              {` `}
-              <a href={`https://twitter.com/${social.twitter}`}>
-                You should follow him on Twitter
-              </a>
-            </p>
+            {phrases[Date.now() % phrases.length]}
           </div>
         )
       }}
