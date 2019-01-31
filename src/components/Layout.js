@@ -3,9 +3,44 @@ import { Link } from 'gatsby'
 
 import { rhythm } from '../utils/typography'
 
+const downLimit = 0.35;
+
 class Layout extends React.Component {
+
+  constructor(props) {
+    super(props);
+
+    this.state = {
+      frame: 1,
+      opacity: 1,
+      counter: 0,
+    }
+    this.changeBackground = this.changeBackground.bind(this);
+  }
+
+  componentDidMount() {
+    this.timeEvt = setInterval(this.changeBackground, 500);
+  }
+
+  componentWillUnmount() {
+    clearInterval(this.timeEvt);
+  }
+
+  changeBackground() {
+    this.setState(prevState => ({
+      counter: prevState.counter + 1,
+      opacity: ((Math.sin(prevState.counter) + 3) / 6),
+      frame: prevState.opacity <= downLimit ? (prevState.frame + 1) % 3 : prevState.frame,
+    }));
+  }
+
   render() {
     const { location, title, children } = this.props
+
+    const { frame, opacity } = this.state;
+
+    console.info(opacity);
+
     const rootPath = `${__PATH_PREFIX__}/`
 
     let header = (
@@ -29,21 +64,34 @@ class Layout extends React.Component {
     );
 
     return (
-      <div
-        style={{
-          marginLeft: `auto`,
-          marginRight: `auto`,
-          maxWidth: rhythm(24),
-          padding: `${rhythm(1.5)} ${rhythm(3 / 4)}`,
-        }}
-      >
-        {location.pathname !== rootPath ? header : null}
+      <div>
+        <div
+          style={{
+            backgroundImage: `url(../static/images/quadro${frame}.png)`,
+            opacity: opacity,
+            position: 'fixed',
+            height: '100vh',
+            width: '100%',
+            zIndex: -1,
+          }}
+        >
+        </div>
+        <div
+          style={{
+            marginLeft: `auto`,
+            marginRight: `auto`,
+            maxWidth: rhythm(24),
+            padding: `${rhythm(1.5)} ${rhythm(3 / 4)}`,
+          }}
+        >
+          {location.pathname !== rootPath ? header : null}
 
-        {children}
-        <footer>
-          Porque algumas coisas não são nomeáveis, nem sempre Aristóteles faz sentido
-          <h5>Por Phelipe Wener</h5>
-        </footer>
+          {children}
+          <footer>
+            Porque algumas coisas não são nomeáveis, nem sempre Aristóteles faz sentido
+            <h5>Por Phelipe Wener</h5>
+          </footer>
+        </div>
       </div>
     )
   }
