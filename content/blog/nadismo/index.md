@@ -4,7 +4,7 @@ date: '2015-02-14T00:00:00.284Z'
 ---
 
 O que fazes enquanto destilo mal estar? Deito, sento e tento me distrair, mas não há música que fuja de minha história. Que egoísmo achar que toda inspiração é dedicada aos meus fatos. Talvez sejam essas leves conexões entre todos nós. Ou eu só esteja louco, ou talvez algum sentimento me domina agora, ou seja, de fato estou louco...
-Dizia Fernando Pessoa: "A metafísica é uma consequência de se estar mal disposto", ele dizia tantas coisas o qual odeio a maneira que fazem sentido, tal que, cada verso parece se imortalizar em mim, como um trauma, como um gesto de amor que esconde algo perverso, rosas envenenadas.
+Dizia Fernando Pessoa: "A metafísica é uma consequência de se estar mal disposto", ele dizia tantas coisas o qual odeio a maneira que fazem sentido, tal que, cada verso parece se imortalizar em mim, como um trauma, como um gesto de amor que esconde algo perverso. Rosas envenenadas.
 
 Apago as luzes? Agora a escuridão me parece mais familiar, cometi a besteira de me deixar levar, sabe, eu tenho a bela maldição de ser uma criança ingênua. Ser um "homem" é difícil nesses tempos, é preciso muita frieza pra agir certo nesse mundo de éticas fissuradas. Por isso danço como um louco, imoral. Canto como um vulgar, vivo como uma doença para qualquer metafísica contrária a mim. A procurar ouvidos para um sussuro de violência, a despertar mentes silenciosas com gritos da alma.
 

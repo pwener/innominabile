@@ -5,14 +5,14 @@ date: '2017-01-30T00:00:00.284Z'
 
 Queria que não houvesse a necessidade de escrever,<br>
 Queria nem mesmo querer,<br>
-Diante da noite que cai lamento o dia,<br>
+Diante da noite que cai, lamento o dia,<br>
 Lamento a vida que deixei por algumas horas escorrer,<br>
 E vejo quão tudo é tédio, dor e querer.<br>
 
 O vento rebate a janela,<br>
 A cortina por algum motivo está entreaberta,<br>
 Aqui é permitido o frio,<br>
-Meu coração atesta isso.<br>
+Todo meu eu atesta isso.<br>
 Os versos brotam impronunciáveis,<br>
 Devaneios não expressáveis,<br>
 Contínuos e inabaláveis aflitos,<br>
@@ -59,7 +59,7 @@ Como tudo que é unívoco em palavra e tem fim,<br>
 Como o dia que passou por mim,<br>
 Como as pessoas que também passaram esse tempo,<br>
 Como o tempo...
-O que resta é essa continua abstração, chamada horas,<br>
+O que resta é essa contínua abstração, chamada horas,<br>
 Ela passará, e quando não mais passar,<br>
 Tanto faz o que existiu ou não.<br>
 
@@ -72,13 +72,13 @@ Salva-me de mim mesmo.<br>
 É tarde, não há mais o que se discutir,<br>
 Nunca houve de fato, mas só agora percebi,<br>
 Toda questão antecede outra que tange seu motivo,<br>
-Na raiz dessa arvore metafísica, quem sabe está Deus,<br>
+Na raiz dessa árvore metafísica, quem sabe está Deus,<br>
 Ou o vazio, materializado, a sorrir.<br>
 
 Despeço-me, despedaço-me,<br>
 Vou por aqui, rompendo distúrbios mentais,<br>
-Levanto-me num golpe fatal, a todo um enredo inercial,<br>
-Abraço a cortina com as mãos, fecho-a,<br>
-Encosto a janela logo atrás,<br>
+Levanto-me num golpe fatal, contra todo um enredo inercial,<br>
+Abraço a cortina com as mãos, fecho-a...<br>
+Encosto a janela logo atrás...<br>
 Amanha outro dia,<br>
 Outros ventos...<br>

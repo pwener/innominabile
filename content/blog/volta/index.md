@@ -7,7 +7,7 @@ Ela não vai voltar...<br>
 Você permitiu que ela saísse,<br>
 Não lhe deu de tudo,<br>
 Mesmo prometendo o mundo,<br>
-E agora observa da sua janela,<br>
+E agora observa de sua janela,<br>
 Tentando encontrá-la fora.<br>
 
 Mas ela não vai voltar...<br>
