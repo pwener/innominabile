@@ -1,0 +1,11 @@
+---
+title: Nadismo
+date: '2015-02-14T00:00:00.284Z'
+---
+
+O que fazes enquanto destilo mal estar? Deito, sento e tento me distrair, mas não há música que fuja de minha história. Que egoísmo achar que toda inspiração é dedicada aos meus fatos. Talvez sejam essas leves conexões entre todos nós. Ou eu só esteja louco, ou talvez algum sentimento me domina agora, ou seja, de fato estou louco...
+Dizia Fernando Pessoa: "A metafísica é uma consequência de se estar mal disposto", ele dizia tantas coisas o qual odeio a maneira que fazem sentido, tal que, cada verso parece se imortalizar em mim, como um trauma, como um gesto de amor que esconde algo perverso, rosas envenenadas.
+
+Apago as luzes? Agora a escuridão me parece mais familiar, cometi a besteira de me deixar levar, sabe, eu tenho a bela maldição de ser uma criança ingênua. Ser um "homem" é difícil nesses tempos, é preciso muita frieza pra agir certo nesse mundo de éticas fissuradas. Por isso danço como um louco, imoral. Canto como um vulgar, vivo como uma doença para qualquer metafísica contrária a mim. A procurar ouvidos para um sussuro de violência, a despertar mentes silenciosas com gritos da alma.
+
+Pensamentos a torturar, pensamentos a vagar, tolos, fúteis, inúteis, lindos. Queria eu ser a materialização de meus devaneios, voaria por ai como negras borboletas, ou como um avião de papel com falsas promessas. Talvez folha de algum livro niilista. Será possivel ter uma overdose de pensamentos? Enquanto escrevo, temo que isso aconteça, já é madrugada, já perdi todas esperanças de algo que me faça bem. Espero o sol nascer, como quem espera respostas, nesses embaraços sentimentais, sobre o cérebro a interrogar o coração, sobre a música a seduzir o cérebro, todo esquema desse algo que atende por eu, anseia bons filmes, de imediato as palavras certas para terminar essas revelações. Nunca as encontrarei... Eu que a este ponto, me perco em realidades possíveis, finalizo estas palavras com um conselho ao que vão fazer com elas: Despreze.
